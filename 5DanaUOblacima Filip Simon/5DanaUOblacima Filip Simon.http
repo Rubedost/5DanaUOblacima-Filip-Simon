@@ -1,0 +1,6 @@
+@_5DanaUOblacima_Filip_Simon_HostAddress = http://localhost:5093
+
+GET {{_5DanaUOblacima_Filip_Simon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
